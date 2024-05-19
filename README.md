@@ -2,7 +2,7 @@
 
 Automate NUML QEC evaluations effortlessly! This script fills forms accurately, saving time. Customize reviews easily for efficient feedback.
 
-![NUML Logo](NUML-QEC-Auto-Fill/numl.png)
+![NUML Logo](numl.png)
 
 Auto Evaluation Script
 
